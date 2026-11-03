@@ -3,6 +3,7 @@
 ## EN
 
 ### Overview
+
 Online Shop is a database project written in Oracle SQL, developed as a second-year university project at Kielce University of Technology.
 The project presents a simplified database model of an online shopping platform inspired by services such as Allegro, eBay, and Amazon. Its purpose is to represent the main elements of an e-commerce system, including users, products, categories, sellers, buyers, shopping carts, deliveries, payments, invoices, and addresses.
 The database structure is based on entities and relationships that describe how the individual elements of an online shop are connected. It includes one-to-many and many-to-many relationships, as well as inheritance between users, sellers, and buyers.
